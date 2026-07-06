@@ -1,4 +1,7 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm Sumit Raj
+**A passionate Full-Stack Web Developer | AI & GIS Enthusiast | BCA Student from India 🇮🇳**
+
+Email Me 👉 ✉️ **sumitrajkumarsingh158@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 🔭 I'm currently working on Full-Stack Web Development, AI-powered applications, and real-world software projects.<br><br>🤝 I'm looking to collaborate on Open Source Projects, Web Development, Artificial Intelligence, GIS, and Innovative Tech Solutions.<br><br>🫱🏻‍🫲🏼 I'm looking for help with System Design, Cloud Computing, DevOps, and Building Scalable Applications.<br><br>🌱 I'm currently learning Data Structures & Algorithms, React.js, Node.js, GIS, Artificial Intelligence, and Cloud Technologies.<br><br>💬 Ask me about HTML, CSS, JavaScript, React, Node.js, PHP, MySQL, Git, GitHub, Web Development, and Programming Fundamentals.<br><br>🎯 My goal is to become a Software Engineer** and build impactful products that solve real-world problems.<br><br>⚡ Fun fact: I enjoy turning ideas into practical applications and continuously learning new technologies.
 
 
